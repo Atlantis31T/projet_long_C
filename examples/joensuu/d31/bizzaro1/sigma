@@ -1,0 +1,2 @@
+delta = (rho1 * rho2/n)^(1/2)
+sigma = delta / 2

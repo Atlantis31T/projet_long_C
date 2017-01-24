@@ -1,0 +1,27 @@
+
+BINDIR=${HOME}/Cluster/bin
+
+#****************************************
+#mpi
+#****************************************
+
+#****************************************
+#Lapack
+        LIBLAPACK = -llapack
+
+#****************************************
+#Arpack
+INCARP = -I/home/guivarch/opt/arpack/include 
+LIBARP = -L/home/guivarch/opt/arpack/lib -larpack_Linux
+
+#****************************************
+#Compilateur Fortran 90
+	MPIF90=mpif90
+	F90=mpif90
+
+#Parametres de compilation
+	OPTIONS=-cpp -Daff=false
+	FLAGS=-O3
+	INCLUDE=
+#****************************************
+

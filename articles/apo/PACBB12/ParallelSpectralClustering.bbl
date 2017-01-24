@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{vec08b}
+{ S. Mouysset}, J.~Noailles, and D.~Ruiz.
+\newblock {Using a Global Parameter for Gaussian Affinity Matrix in Spectral
+  Clustering}.
+\newblock In {\em {Lecture Notes in Computer Science}}, pages 378--390.
+  Springer-Verlag, juin 2008.
+
+\bibitem{Chen10}
+W.-Y. Chen, S.~Yangqiu, H.~Bai, C.-J. Lin, and E.~Y. Chang.
+\newblock {Parallel Spectral Clustering in Distributed Systems}.
+\newblock {\em Preprint of IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 2010.
+
+\bibitem{giannakeas2008image}
+N.~Giannakeas and D.~Fotiadis.
+\newblock {Image Processing and Machine Learning Techniques for the
+  Segmentation of cDNA Microarray Images}, 2008.
+
+\bibitem{lehoucq1998arpack}
+R.~Lehoucq, D.~Sorensen, and C.~Yang.
+\newblock {\em {ARPACK users' guide: solution of large-scale eigenvalue
+  problems with implicitly restarted Arnoldi methods}}.
+\newblock Siam, 1998.
+
+\bibitem{speC}
+A.~Y. Ng, M.~I. Jordan, and Y.~Weiss.
+\newblock On spectral clustering: analysis and an algorithm.
+\newblock {\em Proceedings in Advance Neural Information Processing Systems},
+  2002.
+
+\bibitem{rueda2005new}
+L.~Rueda and L.~Qin.
+\newblock {A new method for DNA microarray image segmentation}.
+\newblock {\em Image Analysis and Recognition}, pages 886--893, 2005.
+
+\bibitem{rueda2009pattern}
+L.~Rueda and J.~Rojas.
+\newblock {A Pattern Classification Approach to DNA Microarray Image
+  Segmentation}.
+\newblock {\em Pattern Recognition in Bioinformatics}, pages 319--330, 2009.
+
+\bibitem{song}
+Y.~Song, W.~Chen, H.~Bai, C.~Lin, and E.~Chang.
+\newblock {Parallel spectral clustering}.
+\newblock In {\em Proceedings of European Conference on Machine Learning and
+  Pattern Knowledge Discovery}. Springer, 2008.
+
+\bibitem{uslan2010microarray}
+V.~Uslan, O.~Bucak, and B.~Cekmece.
+\newblock {Microarray image segmentation using clustering methods}.
+\newblock {\em Mathematical and Computational Applications}, 15(2):240--247,
+  2010.
+
+\bibitem{yang2001analysis}
+Y.~Yang, M.~Buckley, and T.~Speed.
+\newblock {Analysis of cDNA microarray images}.
+\newblock {\em Briefings in bioinformatics}, 2(4):341, 2001.
+
+\end{thebibliography}
